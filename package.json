@@ -1,5 +1,5 @@
 {
-  "name": "@nomiclabs/websocket",
+  "name": "@chainsafe/websocket",
   "description": "Websocket Client & Server Library implementing the WebSocket protocol as specified in RFC 6455.",
   "keywords": [
     "websocket",
